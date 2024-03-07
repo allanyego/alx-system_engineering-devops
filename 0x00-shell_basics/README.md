@@ -1,0 +1,1 @@
+## this command outputs the absolute path to the current directory
