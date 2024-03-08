@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -1Ap | LC_ALL=C sort -df | sed 's/\*$//' | sed ':a;N;$!ba;s/\n/, /g'
