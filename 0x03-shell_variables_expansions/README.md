@@ -27,3 +27,11 @@ S11: Convert base 2 number to base 10
 S12: Print all possible combinations of a..z except 'oo'
 
 S13: Print a number to 2 decimal places
+
+S14: Conversion from base 10 to 16
+
+S15: ROT13 encryption & decryption
+
+S16: Print every other line in input starting with the first
+
+S17: Working with custom base numbers
